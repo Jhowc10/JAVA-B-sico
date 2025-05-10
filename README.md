@@ -1,20 +1,18 @@
-## Tópico de estudo sobre JAVA da UNINOVE
+## Curso de JAVA realizado no Curso em Video com Gustavo Guanabara 
 
 ### Temos exemplos de:
-* Como implantar interface para serviço RMI
-* Implementação de classe servidora
-* Parte cliente usando classe servidora
+* Pegar hora do sistema
+* Pegar o idioma do sistema
+* Pegar a resolução da tela
+* Introdução ao Java Swing
+* Tipos primitivos e manipulação de dados
+* Operador aritmético
+* Operador Math
 * Operador ternário
-* Estrutura de decisão
-* Estrutura de repetição
-* Array
-* Catch e Try
-* Herança
-* Polimorfismo
-* Classe abstrata
-* Interface
-* Sobrecarga
-* Encapsulamento
-* Interface gráfica com GUI
-* Conexão com banco de dados
+* Estrutura condicional simples e composta
+* Laço de repetição
+* Vetores
+* Metodos
+* Funções
+
                             
